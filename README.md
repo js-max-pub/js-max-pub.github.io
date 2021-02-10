@@ -1,17 +1,16 @@
 # javascript libraries by [max.pub](https://max.pub)
 
-[GitHub](https://github.com/js-max-pub/idbkv)
-[idbkv](https://js.max.pub/idbkv) 
-*index-db key-value store*  
+### idbkv
+index-db key-value store  
+[GitHub](https://js.max.pub/idbkv) - [WebSite](https://js.max.pub/idbkv)
 
-**wiki**
-[GitHub](https://js.max.pub/wiki)
-[web](https://js.max.pub/wiki)
-*wikipedia API wrapper*
-
+### wiki
+wikipedia API wrapper  
+[GitHub](https://js.max.pub/wiki) - [WebSite](https://js.max.pub/wiki)
 
 ### fofi  
-folders and files as objects  
+folder and file objects for javascript  
+inspired by dart  
 [GitHub](https://js.max.pub/fs) - [WebSite](https://js.max.pub/fs)
 
 
