@@ -10,7 +10,7 @@
 *wikipedia API wrapper*
 
 
-## fofi  
+### fofi  
 folders and files as objects  
 [GitHub](https://js.max.pub/fs) - [WebSite](https://js.max.pub/fs)
 
